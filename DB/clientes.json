@@ -1,0 +1,3 @@
+{"_id":{"$oid":"6201712cba59ec3071c3de73"},"nombre":"Emerio","apellido":"Suarez","empresa":"Facebook","email":"correo@correo.com","telefono":"+56986541255","__v":0}
+{"_id":{"$oid":"6202bf4ff9ee686ebe2f9ec5"},"nombre":"chipa","apellido":"mogli","empresa":"moglisattack","email":"chipa@mogli.com","telefono":"+56996541258","__v":0}
+{"_id":{"$oid":"6202c991cf00d5725e8c38c6"},"nombre":"wacho","apellido":"rap","empresa":"calle","email":"wacho@calle.com","telefono":"+56994564534","__v":0}
