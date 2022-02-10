@@ -37,7 +37,7 @@ const corsOptions = {
 
 
 // Habilitar cors
-app.use(cors());
+app.use(cors(corsOptions));
 
 // Rutas de la app
 app.use('/', routes());
